@@ -1,0 +1,2 @@
+you can download the minute weather dataset from here:
+https://drive.google.com/file/d/0B8iiZ7pSaSFZb3ItQ1l4LWRMTjg/view

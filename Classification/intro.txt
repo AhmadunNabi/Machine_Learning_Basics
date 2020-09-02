@@ -1,0 +1,7 @@
+In this notebook we will use scikit learning action
+to perform a decision tree base classification of metadata.
+This metadata was curated from sensor data
+of a weather station located here in San Diego, California
+and the weather station has sensors that capture
+weather related measurements such as air temperature,
+air pressure, and relative humidity.
